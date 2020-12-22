@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "postressude01.postgres.database.azure.com",
+        "host": "postgressude1.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "usrSudi",
-        "password": "Sude1234*",
+        "user": "sudeadiguzel",
+        "password": "Sude1234+",
         "ssl": "require"
     }
 }
